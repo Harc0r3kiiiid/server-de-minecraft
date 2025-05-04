@@ -2463,3 +2463,7 @@ BCLib - Nether BiomeSource (b9becfe)
 [19:33:32] [Server thread/INFO]: [zxymatthewyxz: Set own game mode to Survival Mode]
 [19:35:49] [Server thread/INFO]: [zxymatthewyxz: Teleported zxymatthewyxz to 753.500000, 106.500000, -585.500000]
 [19:36:37] [Server thread/INFO]: [zxymatthewyxz: Gave 200 [Frost Rune] to zxymatthewyxz]
+[19:41:31] [Server thread/INFO]: zxymatthewyxz has made the advancement [Penteconter]
+[19:45:21] [Server thread/INFO]: [zxymatthewyxz: Teleported zxymatthewyxz to 959.500000, 71.500000, -657.500000]
+[19:47:24] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of zxymatthewyxz accepted server config.
+[19:48:19] [Server thread/WARN]: @Redirect conflict. Skipping mixins.redirected_fabric_1.20.1.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirected->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000

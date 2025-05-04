@@ -366,6 +366,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/maple/stairs": {
+    "criteria": {
+      "has_planks": "2025-05-04 07:16:58 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/rail": {
     "criteria": {
       "has_stick": "2025-05-04 05:27:27 +0000"
@@ -507,6 +513,12 @@
   "soulsweapons:recipes/combat/featherlight": {
     "criteria": {
       "has_item": "2025-05-04 06:36:11 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/door": {
+    "criteria": {
+      "has_planks": "2025-05-04 07:16:58 +0000"
     },
     "done": true
   },
@@ -1578,6 +1590,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/maple/button": {
+    "criteria": {
+      "has_planks": "2025-05-04 07:16:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-04 05:36:26 +0000"
@@ -1643,9 +1661,12 @@
       "pine_taiga": "2025-05-04 06:10:59 +0000",
       "autumnal_maple_forest": "2025-05-04 05:59:49 +0000",
       "muddy_river": "2025-05-04 06:08:20 +0000",
+      "rocky_meadow": "2025-05-04 07:09:30 +0000",
       "maple_forest": "2025-05-04 05:59:46 +0000",
+      "magnolia_highlands": "2025-05-04 07:09:45 +0000",
       "boreal_forest": "2025-05-04 06:08:32 +0000",
       "towering_cliffs": "2025-05-04 05:37:30 +0000",
+      "temperate_grove": "2025-05-04 07:11:39 +0000",
       "gravel_beach": "2025-05-04 06:00:09 +0000"
     },
     "done": false
@@ -1831,9 +1852,12 @@
       "pine_taiga": "2025-05-04 06:10:59 +0000",
       "autumnal_maple_forest": "2025-05-04 05:59:49 +0000",
       "muddy_river": "2025-05-04 06:08:20 +0000",
+      "rocky_meadow": "2025-05-04 07:09:30 +0000",
       "maple_forest": "2025-05-04 05:59:46 +0000",
+      "magnolia_highlands": "2025-05-04 07:09:45 +0000",
       "boreal_forest": "2025-05-04 06:08:32 +0000",
       "towering_cliffs": "2025-05-04 05:37:30 +0000",
+      "temperate_grove": "2025-05-04 07:11:39 +0000",
       "gravel_beach": "2025-05-04 06:00:09 +0000"
     },
     "done": false
@@ -2268,6 +2292,12 @@
   "betternether:recipes/decorations/nether_mushroom_bar_stool": {
     "criteria": {
       "has_stick": "2025-05-04 05:27:27 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-04 07:16:58 +0000"
     },
     "done": true
   },
@@ -3328,6 +3358,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/maple/sign": {
+    "criteria": {
+      "has_planks": "2025-05-04 07:16:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-05-04 05:50:52 +0000"
@@ -3646,6 +3682,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/maple/fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-04 07:16:58 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/stalagnate_fence": {
     "criteria": {
       "has_stick": "2025-05-04 05:27:27 +0000"
@@ -3730,12 +3772,14 @@
       "minecraft:cherry_grove": "2025-05-04 06:14:45 +0000",
       "minecraft:sunflower_plains": "2025-05-04 06:25:26 +0000",
       "minecraft:birch_forest": "2025-05-04 06:09:36 +0000",
+      "minecraft:windswept_hills": "2025-05-04 07:10:44 +0000",
       "minecraft:beach": "2025-05-04 06:00:05 +0000",
       "minecraft:sparse_jungle": "2025-05-04 05:23:39 +0000",
       "minecraft:river": "2025-05-04 05:44:28 +0000",
       "minecraft:forest": "2025-05-04 05:38:09 +0000",
       "minecraft:windswept_forest": "2025-05-04 05:37:32 +0000",
       "minecraft:flower_forest": "2025-05-04 06:25:18 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-04 07:13:04 +0000",
       "minecraft:meadow": "2025-05-04 06:11:41 +0000",
       "minecraft:plains": "2025-05-04 05:39:34 +0000"
     },
@@ -3972,6 +4016,12 @@
   "croptopia:recipes/misc/apple_juice": {
     "criteria": {
       "has_apple": "2025-05-04 05:45:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/promenade/sign_post_maple": {
+    "criteria": {
+      "has_planks": "2025-05-04 07:16:58 +0000"
     },
     "done": true
   },
@@ -4354,6 +4404,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/maple/fence": {
+    "criteria": {
+      "has_planks": "2025-05-04 07:16:58 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_shelf": {
     "criteria": {
       "has_oak_shelf": "2025-05-04 06:28:01 +0000"
@@ -4495,6 +4551,12 @@
   "betterend:recipes/decorations/helix_tree_ladder": {
     "criteria": {
       "has_stick": "2025-05-04 05:27:27 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-04 07:13:44 +0000"
     },
     "done": true
   },
@@ -4658,6 +4720,12 @@
   "supplementaries:recipes/flags/flag_black": {
     "criteria": {
       "has_stick": "2025-05-04 05:27:27 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/slab": {
+    "criteria": {
+      "has_planks": "2025-05-04 07:16:58 +0000"
     },
     "done": true
   },
@@ -6324,6 +6392,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/maple/pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-04 07:16:58 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/fabric_bolt_blue": {
     "criteria": {
       "has_stick": "2025-05-04 05:27:27 +0000"
@@ -7202,6 +7276,12 @@
   "croptopia:recipes/misc/peach_sapling": {
     "criteria": {
       "has_peach": "2025-05-04 06:34:13 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/upper_bone_staff": {
+    "criteria": {
+      "upper_bone_staff": "2025-05-04 07:16:41 +0000"
     },
     "done": true
   },

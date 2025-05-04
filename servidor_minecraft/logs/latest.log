@@ -3047,3 +3047,36 @@ BCLib - Nether BiomeSource (6930dbdf)
 [07:02:20] [Server thread/INFO]: [zxymatthewyxz: Teleported zxymatthewyxz to 992.500000, 80.500000, -853.500000]
 [07:03:43] [Server thread/INFO]: zxymatthewyxz has made the advancement [Source of Evil]
 [07:06:19] [pool-12-thread-7/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert]] from pos class_2338{x=1339, y=67, z=-171}
+[07:09:25] [Server thread/INFO]: zxymatthewyxz lost connection: Disconnected
+[07:09:25] [Server thread/INFO]: zxymatthewyxz left the game
+[07:09:25] [Server thread/INFO]: remove player wand
+[07:09:25] [Server thread/INFO]: Updating all forceload tickets for 433be659-15d5-3745-9436-55cee3bfccfc
+[07:09:31] [Server thread/INFO]: [Handshake] Sending channel query
+[07:09:31] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[07:09:31] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[07:09:32] [Server thread/INFO]: zxymatthewyxz[/100.92.27.104:50059] logged in with entity id 43235 at (842.96728233521, 88.0, -1055.3819822739656)
+[07:09:32] [Server thread/INFO]: Sending server config values to client
+[07:09:32] [Server thread/INFO]: Syncing config to zxymatthewyxz (433be659-15d5-3745-9436-55cee3bfccfc)
+[07:09:32] [Server thread/INFO]: Loading config from file...
+[07:09:32] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[07:09:32] [Server thread/INFO]: zxymatthewyxz joined the game
+[07:09:32] [Server thread/INFO]: Loading Configs for Sortilege
+[07:09:32] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[07:09:32] [Server thread/INFO]: PLAYER_JOIN
+[07:09:32] [Server thread/INFO]: add_player wand
+[07:09:32] [Server thread/INFO]: config sent
+[07:09:32] [Server thread/INFO]: Updating all forceload tickets for 433be659-15d5-3745-9436-55cee3bfccfc
+[07:09:34] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[07:09:35] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: zxymatthewyxz -> Global
+[07:09:35] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player zxymatthewyxz. Claiming: GRAVE / Robbing: INVENTORY
+[07:09:37] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of zxymatthewyxz accepted server config.
+[07:10:49] [pool-12-thread-8/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:small/village_snowy], ResourceKey[minecraft:worldgen/structure / ctov:large/village_snowy], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_underground]] from pos class_2338{x=1035, y=105, z=427}
+[07:12:13] [pool-12-thread-9/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / ctov:large/village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_snowy], ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic]] from pos class_2338{x=1323, y=68, z=645}
+[07:13:27] [Server thread/INFO]: zxymatthewyxz has made the advancement [Archer´s Paths]
+[07:13:44] [Server thread/INFO]: liamsitol has made the advancement [Penteconter]
+[07:16:24] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of zxymatthewyxz accepted server config.
+[07:16:41] [Server thread/INFO]: liamsitol has made the advancement [Broken Parts III]
+[07:17:17] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of zxymatthewyxz accepted server config.
+[07:17:23] [pool-12-thread-10/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / ctov:large/village_underground], ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:small/village_plains]] from pos class_2338{x=683, y=73, z=-1451}
+[07:17:46] [Server thread/INFO]: liamsitol fell from a high place
+[07:17:48] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of liamsitol accepted server config.

@@ -9796,15 +9796,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_shrub": {
+    "criteria": {
+      "has_maple_sapling": "2025-05-04 19:31:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2025-05-04 19:19:05 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2025-05-04 19:31:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2025-05-04 19:31:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-04 19:19:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2025-05-04 19:31:51 +0000"
     },
     "done": true
   },
@@ -9832,9 +9856,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_maple": {
+    "criteria": {
+      "has_planks": "2025-05-04 19:31:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-05-04 19:19:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2025-05-04 19:31:51 +0000"
     },
     "done": true
   },
@@ -9850,15 +9886,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2025-05-04 19:31:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2025-05-04 19:31:51 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_trap": {
     "criteria": {
       "has_flint": "2025-05-04 19:19:05 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 19:31:43 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/flint_from_gravel": {
     "criteria": {
       "has_gravel": "2025-05-04 19:19:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2025-05-04 19:31:51 +0000"
     },
     "done": true
   },
@@ -9922,6 +9982,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2025-05-04 19:31:51 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-05-04 19:19:01 +0000"
@@ -9958,9 +10024,21 @@
     },
     "done": true
   },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "maple_log": "2025-05-04 19:31:43 +0000"
+    },
+    "done": false
+  },
   "handcrafted:recipes/misc/wood_cup": {
     "criteria": {
       "has_wood_cup": "2025-05-04 19:17:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/jungle_pressure_plate_from_slab": {
+    "criteria": {
+      "has_jungle_slab": "2025-05-04 19:34:24 +0000"
     },
     "done": true
   },
@@ -10012,6 +10090,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/jungle_table_slab": {
+    "criteria": {
+      "has_jungle": "2025-05-04 19:34:24 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-05-04 19:17:11 +0000"
@@ -10027,6 +10111,24 @@
   "techreborn:recipes/crafting_table/misc_block/gravel": {
     "criteria": {
       "has_flint": "2025-05-04 19:19:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2025-05-04 19:31:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 19:31:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2025-05-04 19:31:51 +0000"
     },
     "done": true
   },

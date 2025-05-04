@@ -9721,6 +9721,12 @@
     },
     "done": true
   },
+  "rpg_series:spell_novice_frost": {
+    "criteria": {
+      "bind": "2025-05-04 21:15:10 +0000"
+    },
+    "done": true
+  },
   "mythicmounts:summoning_staff": {
     "criteria": {
       "has_pearl": "2025-05-04 21:07:03 +0000"
@@ -9886,6 +9892,12 @@
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-05-04 21:07:03 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:classes": {
+    "criteria": {
+      "book": "2025-05-04 21:13:11 +0000"
     },
     "done": true
   },

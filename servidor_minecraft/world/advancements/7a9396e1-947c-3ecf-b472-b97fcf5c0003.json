@@ -11082,9 +11082,33 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_stormlander": {
+    "criteria": {
+      "has_anvil": "2025-05-04 21:12:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-05-04 21:15:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-04 21:12:36 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/voodoo_protection_poppet": {
     "criteria": {
       "has_item": "2025-05-04 20:42:38 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-04 21:12:36 +0000"
     },
     "done": true
   },
@@ -11094,15 +11118,51 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-04 21:12:36 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-05-04 21:12:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2025-05-04 21:12:36 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-05-04 21:12:36 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/protection_poppet": {
     "criteria": {
       "has_item": "2025-05-04 20:42:38 +0000"
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_gravity": {
+    "criteria": {
+      "has_anvil": "2025-05-04 21:12:43 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/sweeper": {
     "criteria": {
       "requirement": "2025-05-04 20:52:48 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_double": {
+    "criteria": {
+      "has_iron_block": "2025-05-04 21:12:36 +0000"
     },
     "done": true
   },
@@ -11148,6 +11208,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-05-04 21:12:36 +0000"
+    },
+    "done": true
+  },
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-05-04 20:52:51 +0000"
@@ -11157,6 +11223,18 @@
   "bewitchment:recipes/tools/judgment_poppet": {
     "criteria": {
       "has_item": "2025-05-04 20:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-04 21:12:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/iron_plate_from_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-04 21:12:36 +0000"
     },
     "done": true
   },
@@ -11181,6 +11259,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-05-04 20:42:38 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-05-04 21:12:36 +0000"
     },
     "done": true
   },

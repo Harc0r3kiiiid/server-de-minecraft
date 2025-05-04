@@ -4872,3 +4872,12 @@ BCLib - Nether BiomeSource (b9becfe)
 [21:05:17] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of liamsitol accepted server config.
 [21:05:30] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of zxymatthewyxz accepted server config.
 [21:10:21] [Server thread/INFO]: zxymatthewyxz has made the advancement [What a Deal!]
+[21:13:11] [Server thread/INFO]: zxymatthewyxz has reached the goal [Choose your path]
+[21:15:10] [Server thread/INFO]: zxymatthewyxz has made the advancement [Keep it cool]
+[21:15:10] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: wizards:frost isComplete: false
+[21:15:29] [Server thread/INFO]: [zxymatthewyxz: Gave 50 experience points to zxymatthewyxz]
+[21:15:41] [Server thread/INFO]: [zxymatthewyxz: Gave 500 experience points to zxymatthewyxz]
+[21:15:43] [Server thread/INFO]: [zxymatthewyxz: Gave 500 experience points to zxymatthewyxz]
+[21:15:44] [Server thread/INFO]: [zxymatthewyxz: Gave 500 experience points to zxymatthewyxz]
+[21:15:45] [Server thread/INFO]: [zxymatthewyxz: Gave 500 experience points to zxymatthewyxz]
+[21:15:46] [Server thread/INFO]: [zxymatthewyxz: Gave 500 experience points to zxymatthewyxz]

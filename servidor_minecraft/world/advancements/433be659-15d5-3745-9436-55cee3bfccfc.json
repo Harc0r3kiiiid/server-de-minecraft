@@ -522,6 +522,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-05-04 06:07:50 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_rapier": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 05:49:45 +0000"
@@ -1518,6 +1524,12 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_archer": {
+    "criteria": {
+      "has_core_specification_item": "2025-05-04 06:07:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/wart_gate": {
     "criteria": {
       "has_stick": "2025-05-04 05:37:18 +0000"
@@ -1556,7 +1568,10 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "pine_taiga": "2025-05-04 06:11:05 +0000",
+      "muddy_river": "2025-05-04 06:08:25 +0000",
       "maple_forest": "2025-05-04 05:59:46 +0000",
+      "boreal_forest": "2025-05-04 06:08:34 +0000",
       "towering_cliffs": "2025-05-04 05:39:49 +0000",
       "gravel_beach": "2025-05-04 05:59:50 +0000"
     },
@@ -1716,7 +1731,10 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "pine_taiga": "2025-05-04 06:11:05 +0000",
+      "muddy_river": "2025-05-04 06:08:25 +0000",
       "maple_forest": "2025-05-04 05:59:46 +0000",
+      "boreal_forest": "2025-05-04 06:08:34 +0000",
       "towering_cliffs": "2025-05-04 05:39:49 +0000",
       "gravel_beach": "2025-05-04 05:59:50 +0000"
     },
@@ -2815,6 +2833,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-05-04 06:10:38 +0000"
+    },
+    "done": false
+  },
   "mcda:recipes/base_armors/mystery_armor_purple_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 05:49:45 +0000"
@@ -3394,6 +3418,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-04 06:09:23 +0000",
+      "minecraft:birch_forest": "2025-05-04 06:09:31 +0000",
       "minecraft:beach": "2025-05-04 05:59:49 +0000",
       "minecraft:sparse_jungle": "2025-05-04 05:21:25 +0000",
       "minecraft:river": "2025-05-04 05:46:35 +0000",
@@ -3401,6 +3427,7 @@
       "minecraft:forest": "2025-05-04 05:40:30 +0000",
       "minecraft:windswept_forest": "2025-05-04 05:36:26 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-04 05:36:27 +0000",
+      "minecraft:meadow": "2025-05-04 06:12:02 +0000",
       "minecraft:plains": "2025-05-04 05:42:29 +0000"
     },
     "done": false
@@ -5649,7 +5676,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-04 06:07:44 +0000",
       "minecraft:spider": "2025-05-04 05:45:42 +0000",
+      "minecraft:creeper": "2025-05-04 06:05:49 +0000",
       "minecraft:zombie": "2025-05-04 05:26:20 +0000"
     },
     "done": false
@@ -6897,6 +6926,12 @@
   "betternether:recipes/transportation/detector_rail": {
     "criteria": {
       "has_redstone": "2025-05-04 05:48:48 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-05-04 06:10:38 +0000"
     },
     "done": true
   },

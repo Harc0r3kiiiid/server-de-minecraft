@@ -9048,6 +9048,12 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_10_shieldbearers": {
+    "criteria": {
+      "shieldbearers_killed": "2025-05-04 20:35:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-05-04 19:49:50 +0000"
@@ -9132,9 +9138,21 @@
     },
     "done": true
   },
+  "minecells:book/mobs/buzzcutter": {
+    "criteria": {
+      "requirement": "2025-05-04 20:32:08 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2025-05-04 19:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_10_buzzcutters": {
+    "criteria": {
+      "buzzcutters_killed": "2025-05-04 20:37:18 +0000"
     },
     "done": true
   },
@@ -9201,6 +9219,12 @@
   "minecells:book/mobs/mutated_bat": {
     "criteria": {
       "requirement": "2025-05-04 20:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_15_undead_archers": {
+    "criteria": {
+      "undead_archers_killed": "2025-05-04 20:39:29 +0000"
     },
     "done": true
   },
@@ -9312,6 +9336,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/inquisitor": {
+    "criteria": {
+      "requirement": "2025-05-04 20:32:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2025-05-04 19:49:50 +0000"
@@ -9357,6 +9387,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-05-04 19:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_10_inquisitors": {
+    "criteria": {
+      "inquisitors_killed": "2025-05-04 20:40:25 +0000"
     },
     "done": true
   },

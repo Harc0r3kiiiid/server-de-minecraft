@@ -312,6 +312,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-04 07:08:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/bamboo_taburet": {
     "criteria": {
       "has_stick": "2025-05-04 05:27:27 +0000"
@@ -1254,6 +1260,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/phantom_armor_leggings": {
+    "criteria": {
+      "has_phantom_skin": "2025-05-04 07:01:11 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-04 05:52:08 +0000"
@@ -1521,6 +1533,12 @@
   "travelersbackpack:recipes/misc/redstone": {
     "criteria": {
       "has_redstone": "2025-05-04 05:52:15 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_helmet": {
+    "criteria": {
+      "has_phantom_bones": "2025-05-04 07:00:39 +0000"
     },
     "done": true
   },
@@ -1877,6 +1895,12 @@
   "mcda:recipes/base_armors/guards_armor_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 05:46:23 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_boots": {
+    "criteria": {
+      "has_phantom_skin": "2025-05-04 07:01:11 +0000"
     },
     "done": true
   },
@@ -2310,6 +2334,12 @@
   "supplementaries:recipes/bomb": {
     "criteria": {
       "has_string": "2025-05-04 05:43:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-04 07:08:06 +0000"
     },
     "done": true
   },
@@ -2751,6 +2781,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/phantom_armor_chestplate": {
+    "criteria": {
+      "has_phantom_bones": "2025-05-04 07:00:39 +0000"
+    },
+    "done": true
+  },
   "herbalbrews:recipes/witch_hat": {
     "criteria": {
       "has_white_wool": "2025-05-04 05:50:52 +0000"
@@ -2784,6 +2820,12 @@
   "smallships:recipes/transportation/jungle_galley": {
     "criteria": {
       "in_water": "2025-05-04 05:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-04 07:08:06 +0000"
     },
     "done": true
   },
@@ -2856,6 +2898,12 @@
   "stoneworks:recipes/building_blocks/basalt_paver_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-04 05:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-04 07:08:06 +0000"
     },
     "done": true
   },
@@ -3756,6 +3804,12 @@
   "mcda:recipes/base_armors/thief_armor_boots": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 05:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-04 07:08:06 +0000"
     },
     "done": true
   },
@@ -4715,6 +4769,12 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_phantom_bones": "2025-05-04 07:00:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/jungle_window": {
     "criteria": {
       "has_ingredient": "2025-05-04 05:27:24 +0000"
@@ -5075,6 +5135,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_the_recipe": "2025-05-04 07:00:39 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/tanks_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-04 06:34:31 +0000"
@@ -5429,6 +5495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-04 07:08:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/jungle_taburet": {
     "criteria": {
       "has_stick": "2025-05-04 05:27:27 +0000"
@@ -5646,6 +5718,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-05-04 07:00:27 +0000"
+    },
+    "done": false
+  },
   "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
     "criteria": {
       "has_diamond": "2025-05-04 05:46:18 +0000"
@@ -5697,6 +5775,12 @@
   "betterend:recipes/decorations/mossy_glowshroom_fence": {
     "criteria": {
       "has_stick": "2025-05-04 05:27:27 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-05-04 07:00:36 +0000"
     },
     "done": true
   },
@@ -6072,6 +6156,7 @@
       "minecraft:skeleton": "2025-05-04 05:26:04 +0000",
       "minecraft:spider": "2025-05-04 05:45:54 +0000",
       "minecraft:creeper": "2025-05-04 06:05:52 +0000",
+      "minecraft:phantom": "2025-05-04 07:00:27 +0000",
       "minecraft:zombie": "2025-05-04 05:26:16 +0000"
     },
     "done": false
@@ -6791,6 +6876,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-05-04 07:00:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-05-04 05:52:08 +0000"
@@ -7390,6 +7481,12 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
+    "criteria": {
+      "has_the_recipe": "2025-05-04 07:00:39 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/computer_normal": {
     "criteria": {
       "has_redstone": "2025-05-04 05:52:15 +0000"
@@ -7688,6 +7785,12 @@
     "criteria": {
       "has_lithium": "2025-05-04 05:23:38 +0000",
       "has_wolframium": "2025-05-04 05:23:38 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/orc_skin_recipe": {
+    "criteria": {
+      "got_the_orc_skin": "2025-05-04 07:04:34 +0000"
     },
     "done": true
   },

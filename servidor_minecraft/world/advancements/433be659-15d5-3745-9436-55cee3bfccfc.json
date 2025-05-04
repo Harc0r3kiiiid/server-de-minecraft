@@ -2084,7 +2084,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-05-04 05:26:02 +0000"
+      "bread": "2025-05-04 05:26:02 +0000",
+      "golden_apple": "2025-05-04 07:03:24 +0000"
     },
     "done": false
   },
@@ -7568,6 +7569,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-05-04 06:31:01 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-05-04 07:03:43 +0000"
     },
     "done": true
   },

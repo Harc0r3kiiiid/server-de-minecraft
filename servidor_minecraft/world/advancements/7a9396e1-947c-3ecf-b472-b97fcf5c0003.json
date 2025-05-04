@@ -632,6 +632,7 @@
       "minecraft:pillager": "2025-05-04 21:38:22 +0000",
       "minecraft:skeleton": "2025-05-04 05:26:04 +0000",
       "minecraft:guardian": "2025-05-04 07:50:04 +0000",
+      "minecraft:vindicator": "2025-05-04 22:16:30 +0000",
       "minecraft:spider": "2025-05-04 05:45:54 +0000",
       "minecraft:creeper": "2025-05-04 06:05:52 +0000",
       "minecraft:phantom": "2025-05-04 07:00:27 +0000",
@@ -3191,6 +3192,7 @@
       "willow_forest": "2025-05-04 07:26:06 +0000",
       "grassy_beach": "2025-05-04 07:30:52 +0000",
       "rocky_meadow": "2025-05-04 07:09:30 +0000",
+      "blackwood_taiga": "2025-05-04 22:16:02 +0000",
       "maple_forest": "2025-05-04 05:59:46 +0000",
       "magnolia_highlands": "2025-05-04 07:09:45 +0000",
       "boreal_forest": "2025-05-04 06:08:32 +0000",
@@ -3201,7 +3203,8 @@
       "pumpkin_fields": "2025-05-04 21:44:25 +0000",
       "spires": "2025-05-04 21:54:12 +0000",
       "gravel_beach": "2025-05-04 06:00:09 +0000",
-      "golden_boreal_taiga": "2025-05-04 21:48:50 +0000"
+      "golden_boreal_taiga": "2025-05-04 21:48:50 +0000",
+      "lupine_plains": "2025-05-04 22:15:42 +0000"
     },
     "done": false
   },
@@ -3215,6 +3218,7 @@
       "willow_forest": "2025-05-04 07:26:06 +0000",
       "grassy_beach": "2025-05-04 07:30:52 +0000",
       "rocky_meadow": "2025-05-04 07:09:30 +0000",
+      "blackwood_taiga": "2025-05-04 22:16:02 +0000",
       "maple_forest": "2025-05-04 05:59:46 +0000",
       "magnolia_highlands": "2025-05-04 07:09:45 +0000",
       "boreal_forest": "2025-05-04 06:08:32 +0000",
@@ -3225,7 +3229,8 @@
       "pumpkin_fields": "2025-05-04 21:44:25 +0000",
       "spires": "2025-05-04 21:54:12 +0000",
       "gravel_beach": "2025-05-04 06:00:09 +0000",
-      "golden_boreal_taiga": "2025-05-04 21:48:50 +0000"
+      "golden_boreal_taiga": "2025-05-04 21:48:50 +0000",
+      "lupine_plains": "2025-05-04 22:15:42 +0000"
     },
     "done": false
   },
@@ -11096,6 +11101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-05-04 22:17:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_sentry_armor_trim_smithing_template": "2025-05-04 21:38:37 +0000"
@@ -11354,6 +11365,12 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_highland": {
+    "criteria": {
+      "has_core_specification_item": "2025-05-04 22:17:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/greenhouse_controller": {
     "criteria": {
       "has_advanced_machine_frame": "2025-05-04 21:38:42 +0000"
@@ -11465,6 +11482,12 @@
   "soulsweapons:recipes/misc/lost_soul": {
     "criteria": {
       "has_item": "2025-05-04 21:52:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/emerald_plate_from_block": {
+    "criteria": {
+      "has_emerald_block": "2025-05-04 22:17:10 +0000"
     },
     "done": true
   },

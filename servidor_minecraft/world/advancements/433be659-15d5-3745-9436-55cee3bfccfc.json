@@ -8766,6 +8766,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/redstone_smithing": {
+    "criteria": {
+      "has_redstone": "2025-05-04 08:06:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-05-04 07:57:26 +0000"

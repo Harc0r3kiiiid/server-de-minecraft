@@ -8916,6 +8916,12 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_30_leaping_zombies": {
+    "criteria": {
+      "leaping_zombies_killed": "2025-05-04 20:24:58 +0000"
+    },
+    "done": true
+  },
   "minecells:vine_rune": {
     "criteria": {
       "vine_rune": "2025-05-04 20:21:41 +0000"
@@ -9186,6 +9192,12 @@
     },
     "done": true
   },
+  "minecells:unlock/fall_from_the_ramparts": {
+    "criteria": {
+      "teleported_up": "2025-05-04 20:29:13 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/mutated_bat": {
     "criteria": {
       "requirement": "2025-05-04 20:10:44 +0000"
@@ -9345,6 +9357,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-05-04 19:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecells:ramparts": {
+    "criteria": {
+      "requirement": "2025-05-04 20:29:12 +0000"
     },
     "done": true
   },

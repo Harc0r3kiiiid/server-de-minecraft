@@ -8910,6 +8910,18 @@
     },
     "done": true
   },
+  "minecells:promenade": {
+    "criteria": {
+      "requirement": "2025-05-04 20:09:42 +0000"
+    },
+    "done": true
+  },
+  "minecells:vine_rune": {
+    "criteria": {
+      "vine_rune": "2025-05-04 20:21:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/semi_fluid_generator": {
     "criteria": {
       "has_solid_fuel_generator": "2025-05-04 19:30:07 +0000"
@@ -8976,9 +8988,21 @@
     },
     "done": true
   },
+  "minecells:elite": {
+    "criteria": {
+      "obelisk_activated": "2025-05-04 20:20:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-05-04 19:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/runner": {
+    "criteria": {
+      "requirement": "2025-05-04 20:10:17 +0000"
     },
     "done": true
   },
@@ -9150,9 +9174,21 @@
     },
     "done": true
   },
+  "minecells:book/mobs/protector": {
+    "criteria": {
+      "requirement": "2025-05-04 20:18:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/diesel_generator": {
     "criteria": {
       "has_solid_fuel_generator": "2025-05-04 19:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/mutated_bat": {
+    "criteria": {
+      "requirement": "2025-05-04 20:10:44 +0000"
     },
     "done": true
   },
@@ -9198,6 +9234,12 @@
     },
     "done": false
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-05-04 20:07:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:generator": {
     "criteria": {
       "crit_0": "2025-05-04 19:30:12 +0000"
@@ -9213,6 +9255,24 @@
   "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-04 19:39:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-05-04 20:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/run_in_the_promenade": {
+    "criteria": {
+      "run": "2025-05-04 20:09:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-05-04 20:16:47 +0000"
     },
     "done": true
   },

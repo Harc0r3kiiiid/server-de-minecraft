@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_great_hammer": {
+    "criteria": {
+      "has_leather": "2025-05-04 05:59:38 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/fabric_bolt_brown": {
     "criteria": {
       "has_stick": "2025-05-04 05:27:27 +0000"
@@ -206,6 +212,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-05-04 05:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-04 05:59:38 +0000"
     },
     "done": true
   },
@@ -372,6 +384,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-05-04 05:59:38 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:recipes/recipe_iron_brush": {
     "criteria": {
       "has_item": "2025-05-04 05:46:23 +0000"
@@ -495,6 +513,12 @@
   "handcrafted:recipes/misc/jungle_dining_bench": {
     "criteria": {
       "has_jungle_dining_bench": "2025-05-04 05:27:24 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/turtle_armor_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-04 05:59:38 +0000"
     },
     "done": true
   },
@@ -684,6 +708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-04 05:59:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_green": {
     "criteria": {
       "has_stick": "2025-05-04 05:27:27 +0000"
@@ -747,6 +777,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-05-04 05:27:45 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_venison": {
+    "criteria": {
+      "has_venison": "2025-05-04 05:59:59 +0000"
     },
     "done": true
   },
@@ -1005,6 +1041,12 @@
   "mcdw:recipes/bows/bow_trickbow": {
     "criteria": {
       "has_string": "2025-05-04 05:43:39 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2025-05-04 05:59:38 +0000"
     },
     "done": true
   },
@@ -1368,6 +1410,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/evocation_robe_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-04 05:59:38 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/grim_armor_helmet": {
     "criteria": {
       "has_bone": "2025-05-04 05:26:05 +0000"
@@ -1376,7 +1424,10 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
-      "towering_cliffs": "2025-05-04 05:37:30 +0000"
+      "autumnal_maple_forest": "2025-05-04 05:59:49 +0000",
+      "maple_forest": "2025-05-04 05:59:46 +0000",
+      "towering_cliffs": "2025-05-04 05:37:30 +0000",
+      "gravel_beach": "2025-05-04 06:00:09 +0000"
     },
     "done": false
   },
@@ -1540,7 +1591,10 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
-      "towering_cliffs": "2025-05-04 05:37:30 +0000"
+      "autumnal_maple_forest": "2025-05-04 05:59:49 +0000",
+      "maple_forest": "2025-05-04 05:59:46 +0000",
+      "towering_cliffs": "2025-05-04 05:37:30 +0000",
+      "gravel_beach": "2025-05-04 06:00:09 +0000"
     },
     "done": false
   },
@@ -1764,6 +1818,12 @@
   "betternether:recipes/redstone/rubeus_gate": {
     "criteria": {
       "has_stick": "2025-05-04 05:27:27 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/gauntlets/gauntlet_gauntlets": {
+    "criteria": {
+      "has_leather": "2025-05-04 05:59:38 +0000"
     },
     "done": true
   },
@@ -2193,6 +2253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-04 05:59:38 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_haunted_bow": {
     "criteria": {
       "has_base_bow": "2025-05-04 05:26:44 +0000"
@@ -2214,6 +2280,12 @@
   "betternether:recipes/decorations/nether_sakura_fence": {
     "criteria": {
       "has_stick": "2025-05-04 05:27:27 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-05-04 06:01:47 +0000"
     },
     "done": true
   },
@@ -2721,6 +2793,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/shulker_armor_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-04 05:59:38 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/emerald": {
     "criteria": {
       "has_emerald": "2025-05-04 05:43:48 +0000"
@@ -2833,6 +2911,12 @@
   "stoneworks:recipes/building_blocks/cracked_basalt_bricks_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-04 05:52:08 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_dancers_sword": {
+    "criteria": {
+      "has_leather": "2025-05-04 05:59:38 +0000"
     },
     "done": true
   },
@@ -3120,6 +3204,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-05-04 06:00:05 +0000",
       "minecraft:sparse_jungle": "2025-05-04 05:23:39 +0000",
       "minecraft:river": "2025-05-04 05:44:28 +0000",
       "minecraft:forest": "2025-05-04 05:38:09 +0000",
@@ -3290,6 +3375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-04 05:59:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-05-04 05:27:27 +0000"
@@ -3407,6 +3498,12 @@
   "betterend:recipes/decorations/jellyshroom_chair": {
     "criteria": {
       "has_stick": "2025-05-04 05:27:27 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulkeeper": {
+    "criteria": {
+      "requirement": "2025-05-04 06:01:37 +0000"
     },
     "done": true
   },
@@ -3594,6 +3691,12 @@
   "seasonsextras:recipes/tinted_greenhouse_glass": {
     "criteria": {
       "has_glass": "2025-05-04 05:23:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-04 05:59:38 +0000"
     },
     "done": true
   },
@@ -5600,6 +5703,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-05-04 06:01:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-05-04 05:52:15 +0000"
@@ -5884,6 +5993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-04 05:59:38 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_brigg": {
     "criteria": {
       "in_water": "2025-05-04 05:38:03 +0000"
@@ -6017,6 +6132,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/vanguard_armor_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-04 05:59:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/titanium_ingot": {
     "criteria": {
       "has_titanium_dust": "2025-05-04 05:23:38 +0000"
@@ -6135,6 +6256,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 05:46:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2025-05-04 05:59:38 +0000"
     },
     "done": true
   },
@@ -6345,6 +6472,12 @@
   "techreborn:recipes/misc/crafting_table/nugget/diamond_nugget": {
     "criteria": {
       "has_diamond": "2025-05-04 05:46:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-05-04 05:59:38 +0000"
     },
     "done": true
   },

@@ -580,6 +580,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-05-04 21:48:43 +0000",
       "minecraft:taiga": "2025-05-04 06:09:25 +0000",
       "minecraft:deep_ocean": "2025-05-04 07:49:42 +0000",
       "minecraft:cherry_grove": "2025-05-04 06:14:45 +0000",
@@ -626,6 +627,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-04 21:38:22 +0000",
       "minecraft:skeleton": "2025-05-04 05:26:04 +0000",
       "minecraft:guardian": "2025-05-04 07:50:04 +0000",
       "minecraft:spider": "2025-05-04 05:45:54 +0000",
@@ -3192,7 +3194,10 @@
       "boreal_forest": "2025-05-04 06:08:32 +0000",
       "towering_cliffs": "2025-05-04 05:37:30 +0000",
       "temperate_grove": "2025-05-04 07:11:39 +0000",
-      "gravel_beach": "2025-05-04 06:00:09 +0000"
+      "cold_river": "2025-05-04 21:41:08 +0000",
+      "pumpkin_fields": "2025-05-04 21:44:25 +0000",
+      "gravel_beach": "2025-05-04 06:00:09 +0000",
+      "golden_boreal_taiga": "2025-05-04 21:48:50 +0000"
     },
     "done": false
   },
@@ -3211,7 +3216,10 @@
       "boreal_forest": "2025-05-04 06:08:32 +0000",
       "towering_cliffs": "2025-05-04 05:37:30 +0000",
       "temperate_grove": "2025-05-04 07:11:39 +0000",
-      "gravel_beach": "2025-05-04 06:00:09 +0000"
+      "cold_river": "2025-05-04 21:41:08 +0000",
+      "pumpkin_fields": "2025-05-04 21:44:25 +0000",
+      "gravel_beach": "2025-05-04 06:00:09 +0000",
+      "golden_boreal_taiga": "2025-05-04 21:48:50 +0000"
     },
     "done": false
   },
@@ -11082,9 +11090,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-05-04 21:38:37 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_stormlander": {
     "criteria": {
       "has_anvil": "2025-05-04 21:12:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/grinder": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-05-04 21:33:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/implosion_compressor": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-05-04 21:38:42 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/obsidian_witch_altar": {
+    "criteria": {
+      "has_item": "2025-05-04 21:34:14 +0000"
     },
     "done": true
   },
@@ -11094,15 +11126,51 @@
     },
     "done": false
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-04 21:38:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-05-04 21:33:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-05-04 21:12:36 +0000"
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-05-04 21:34:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2025-05-04 21:34:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-05-04 21:38:29 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/voodoo_protection_poppet": {
     "criteria": {
       "has_item": "2025-05-04 20:42:38 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-05-04 21:35:05 +0000"
     },
     "done": true
   },
@@ -11118,9 +11186,33 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/obsidian_plate_from_block": {
+    "criteria": {
+      "has_obsidian": "2025-05-04 21:34:14 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-05-04 21:34:14 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_impact_hammer": {
     "criteria": {
       "has_material": "2025-05-04 21:12:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/compressor": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-05-04 21:33:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-04 21:38:37 +0000"
     },
     "done": true
   },
@@ -11130,9 +11222,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-05-04 21:35:05 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/guts_sword": {
     "criteria": {
       "has_item": "2025-05-04 21:12:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/aluminum_dust": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2025-05-04 21:38:43 +0000"
     },
     "done": true
   },
@@ -11142,9 +11246,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-05-04 21:34:14 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/protection_poppet": {
     "criteria": {
       "has_item": "2025-05-04 20:42:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-05-04 21:38:42 +0000"
     },
     "done": true
   },
@@ -11154,9 +11270,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/aluminum_nugget": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-04 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/tin_plate": {
+    "criteria": {
+      "has_tag_c_tin_ingots": "2025-05-04 21:34:12 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/sweeper": {
     "criteria": {
       "requirement": "2025-05-04 20:52:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/greenhouse_controller": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-05-04 21:38:42 +0000"
     },
     "done": true
   },
@@ -11172,9 +11306,51 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/canning_machine": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-05-04 21:33:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/tin_nugget": {
+    "criteria": {
+      "has_tin_ingot": "2025-05-04 21:34:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-04 21:38:37 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_obsidian_claymore": {
+    "criteria": {
+      "has_obsidian": "2025-05-04 21:34:14 +0000"
+    },
+    "done": true
+  },
   "dummmmmmy:recipes/dummy_crafting": {
     "criteria": {
       "has_hay_block": "2025-05-04 20:42:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/cookie": {
+    "criteria": {
+      "has_cookie": "2025-05-04 21:38:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_sawmill": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-05-04 21:38:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/aluminum_plate": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2025-05-04 21:38:43 +0000"
     },
     "done": true
   },
@@ -11184,9 +11360,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-04 21:34:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/ultimate_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-05-04 21:38:42 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/kill_10_buzzcutters": {
     "criteria": {
       "buzzcutters_killed": "2025-05-04 20:45:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/tin_cable": {
+    "criteria": {
+      "has_tin_ingot": "2025-05-04 21:34:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_electrolyzer": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-05-04 21:38:42 +0000"
     },
     "done": true
   },
@@ -11202,15 +11402,69 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/extractor": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-05-04 21:33:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-05-04 21:33:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-05-04 21:34:14 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-05-04 21:44:04 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/fatigue_poppet": {
     "criteria": {
       "has_item": "2025-05-04 20:42:38 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/aluminum_storage_block": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-04 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-05-04 21:34:14 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_sinister": {
+    "criteria": {
+      "has_obsidian": "2025-05-04 21:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-04 21:38:37 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_destructor_hammer": {
     "criteria": {
       "has_material": "2025-05-04 21:12:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/wire_mill/tin_cable": {
+    "criteria": {
+      "has_tin_ingot": "2025-05-04 21:34:12 +0000"
     },
     "done": true
   },
@@ -11238,9 +11492,33 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_frame": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-05-04 21:33:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_blast_furnace": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-05-04 21:38:42 +0000"
+    },
+    "done": true
+  },
   "minecells:black_bridge": {
     "criteria": {
       "requirement": "2025-05-04 20:54:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/tin_storage_block": {
+    "criteria": {
+      "has_tin_ingot": "2025-05-04 21:34:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/advanced_solar_panel_alt": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-05-04 21:33:06 +0000"
     },
     "done": true
   },
@@ -11250,9 +11528,99 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine_block/industrial_machine_frame": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-05-04 21:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-04 21:34:14 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-05-04 21:34:14 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/inquisitor": {
     "criteria": {
       "requirement": "2025-05-04 20:44:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-04 21:38:37 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-05-04 21:35:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/assembling_machine": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-05-04 21:38:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_centrifuge": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-05-04 21:38:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-05-04 21:34:14 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-05-04 21:34:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:machineblock": {
+    "criteria": {
+      "crit_0": "2025-05-04 21:33:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cell": {
+    "criteria": {
+      "has_tin_ingot": "2025-05-04 21:34:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-05-04 21:34:14 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile": {
+    "criteria": {
+      "has_obsidian": "2025-05-04 21:34:14 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "corrupted_eye": "2025-05-04 21:44:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-05-04 21:35:05 +0000"
     },
     "done": true
   },

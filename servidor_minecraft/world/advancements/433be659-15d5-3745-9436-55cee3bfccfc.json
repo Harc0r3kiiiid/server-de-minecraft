@@ -527,6 +527,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-05-04 07:12:20 +0000",
       "minecraft:taiga": "2025-05-04 06:09:23 +0000",
+      "minecraft:deep_ocean": "2025-05-04 07:49:43 +0000",
       "minecraft:cherry_grove": "2025-05-04 06:14:10 +0000",
       "minecraft:sunflower_plains": "2025-05-04 06:26:00 +0000",
       "minecraft:birch_forest": "2025-05-04 06:09:31 +0000",
@@ -537,6 +538,7 @@
       "minecraft:cold_ocean": "2025-05-04 07:26:18 +0000",
       "minecraft:forest": "2025-05-04 05:40:30 +0000",
       "minecraft:windswept_forest": "2025-05-04 05:36:26 +0000",
+      "minecraft:ocean": "2025-05-04 07:49:19 +0000",
       "minecraft:flower_forest": "2025-05-04 06:25:26 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-04 05:36:27 +0000",
       "minecraft:meadow": "2025-05-04 06:12:02 +0000",
@@ -623,7 +625,8 @@
       "potato": "2025-05-04 07:23:07 +0000",
       "bread": "2025-05-04 05:26:02 +0000",
       "golden_apple": "2025-05-04 07:03:24 +0000",
-      "rotten_flesh": "2025-05-04 07:27:14 +0000"
+      "rotten_flesh": "2025-05-04 07:27:14 +0000",
+      "cod": "2025-05-04 07:57:28 +0000"
     },
     "done": false
   },
@@ -8733,9 +8736,51 @@
     },
     "done": true
   },
+  "rpg_series:obtain_wizard_robes": {
+    "criteria": {
+      "wizard_robes": "2025-05-04 07:34:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/prism": {
+    "criteria": {
+      "has_item": "2025-05-04 07:53:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-05-04 07:57:26 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/vanilla_piles/pink_tulip": {
     "criteria": {
       "has_flower": "2025-05-04 07:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-04 07:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-04 07:57:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sponge_piece_from_cod": {
+    "criteria": {
+      "has_cod": "2025-05-04 07:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-04 07:56:05 +0000"
     },
     "done": true
   },
@@ -8757,6 +8802,12 @@
     },
     "done": true
   },
+  "beachparty:sand_bucket_block": {
+    "criteria": {
+      "has_wooden_shovel": "2025-05-04 07:55:57 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/root": {
     "criteria": {
       "grave_01": "2025-05-04 07:18:50 +0000"
@@ -8769,9 +8820,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-04 07:56:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/string_from_bow": {
     "criteria": {
       "has_bow": "2025-05-04 07:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-04 07:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-04 07:53:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/prismarine_shard": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-04 07:53:14 +0000"
     },
     "done": true
   },
@@ -8781,11 +8856,41 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-04 07:56:05 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-05-04 07:57:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
     "criteria": {
       "has_bow": "2025-05-04 07:13:27 +0000"
     },
     "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_shovel": {
+    "criteria": {
+      "has_wooden_shovel": "2025-05-04 07:55:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-04 07:57:26 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
+    "criteria": {
+      "has_snowball": "2025-05-04 07:56:05 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

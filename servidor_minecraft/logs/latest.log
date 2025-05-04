@@ -3096,3 +3096,13 @@ BCLib - Nether BiomeSource (6930dbdf)
 [07:28:05] [Server thread/INFO]: liamsitol fell from a high place
 [07:28:07] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of liamsitol accepted server config.
 [07:28:16] [Server thread/INFO]: liamsitol claimed a grave belonging to liamsitol at 1349, 72, 544, minecraft:overworld
+[07:32:52] [Server thread/INFO]: [zxymatthewyxz: Gave 10 [White Wool] to zxymatthewyxz]
+[07:34:16] [Server thread/INFO]: zxymatthewyxz has made the advancement [A Wizard Is Never Late]
+[07:37:19] [Server thread/INFO]: liamsitol has made the advancement [Sky of Beginning]
+[07:40:21] [pool-12-thread-13/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / ctov:small/village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:large/village_underground], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp]] from pos class_2338{x=437, y=68, z=-1083}
+[07:45:43] [Server thread/INFO]: zxymatthewyxz was slain by Snake
+[07:45:45] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of zxymatthewyxz accepted server config.
+[07:47:35] [Server thread/INFO]: zxymatthewyxz claimed a grave belonging to zxymatthewyxz at 371, 68, -523, minecraft:overworld
+[07:49:14] [Server thread/WARN]: Boat (vehicle of liamsitol) moved wrongly! 0.2547916604543161
+[07:49:14] [Server thread/WARN]: Boat (vehicle of liamsitol) moved wrongly! 0.32815813255967896
+[07:49:14] [Server thread/WARN]: Boat (vehicle of liamsitol) moved wrongly! 0.32815813255967896

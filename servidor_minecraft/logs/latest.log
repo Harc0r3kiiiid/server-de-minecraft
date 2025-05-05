@@ -315,3 +315,35 @@
 [01:00:14] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.35711990954769135
 [01:00:33] [Server thread/INFO]: [zxymatthewyxz: Gave 7 [Enchanted Golden Apple] to zxymatthewyxz]
 [01:00:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[01:01:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3308ms or 66 ticks behind
+[01:01:21] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.26854117729317295
+[01:01:21] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.681794116581159
+[01:01:21] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.29508661194631713
+[01:01:21] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.29508661194631713
+[01:01:22] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.605413105290836
+[01:01:22] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.605413105290836
+[01:01:46] [Server thread/ERROR]: POI data mismatch: never registered at class_2338{x=1561, y=19, z=-1170}
+[01:01:46] [Server thread/ERROR]: POI data mismatch: never registered at class_2338{x=1562, y=19, z=-1170}
+[01:01:46] [Server thread/ERROR]: POI data mismatch: never registered at class_2338{x=1527, y=-8, z=-1145}
+[01:01:46] [Server thread/ERROR]: POI data mismatch: never registered at class_2338{x=1527, y=-7, z=-1145}
+[01:01:46] [Server thread/ERROR]: POI data mismatch: never registered at class_2338{x=1528, y=-8, z=-1145}
+[01:01:46] [Server thread/ERROR]: POI data mismatch: never registered at class_2338{x=1542, y=-13, z=-1147}
+[01:01:46] [Server thread/ERROR]: POI data mismatch: never registered at class_2338{x=1542, y=-13, z=-1146}
+[01:01:46] [Server thread/ERROR]: POI data mismatch: never registered at class_2338{x=1597, y=29, z=-1138}
+[01:01:46] [Server thread/ERROR]: POI data mismatch: never registered at class_2338{x=1598, y=29, z=-1138}
+[01:01:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21381ms or 427 ticks behind
+[01:02:08] [pool-12-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest]] from pos class_2338{x=1259, y=74, z=-1141}
+[01:02:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8196ms or 163 ticks behind
+[01:02:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2903ms or 58 ticks behind
+[01:05:03] [Server thread/INFO]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[01:05:25] [Worker-Main-3/INFO]: [betternether] BBox:class_3341{minX=119, minY=22, minZ=-1705, maxX=281, maxY=96, maxZ=-1543}
+[01:06:13] [Worker-Main-3/WARN]: Skipping Entity with id betternether:chair
+[01:09:05] [Worker-Main-2/INFO]: [betternether] BBox:class_3341{minX=144, minY=22, minZ=-2816, maxX=288, maxY=96, maxZ=-2672}
+[01:09:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2815ms or 56 ticks behind
+[01:09:35] [Server thread/INFO]: zxymatthewyxz has made the advancement [Eternal Expedition]
+[01:10:36] [Server thread/INFO]: No return portal found
+[01:10:36] [Server thread/INFO]: liamsitol has made the advancement [Time for a Sweat]
+[01:10:36] [Server thread/INFO]: liamsitol has made the advancement [Nether Depths Upgrade]
+[01:10:36] [Server thread/INFO]: liamsitol has made the advancement [We Need to Go Deeper]
+[01:10:36] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of liamsitol accepted server config.
+[01:10:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4347ms or 86 ticks behind

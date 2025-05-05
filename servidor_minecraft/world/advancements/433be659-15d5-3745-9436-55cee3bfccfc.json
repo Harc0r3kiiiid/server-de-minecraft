@@ -626,6 +626,7 @@
       "bread": "2025-05-04 05:26:02 +0000",
       "golden_apple": "2025-05-04 07:03:24 +0000",
       "rotten_flesh": "2025-05-04 07:27:14 +0000",
+      "enchanted_golden_apple": "2025-05-05 01:00:44 +0000",
       "cod": "2025-05-04 07:57:28 +0000"
     },
     "done": false
@@ -644,6 +645,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-05-05 00:58:05 +0000",
       "minecraft:skeleton": "2025-05-04 06:07:44 +0000",
       "minecraft:hoglin": "2025-05-05 00:46:04 +0000",
       "minecraft:spider": "2025-05-04 05:45:42 +0000",
@@ -9934,6 +9936,10 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
+      "betternether:wart_forest_edge": "2025-05-05 01:07:30 +0000",
+      "betternether:flooded_deltas": "2025-05-05 01:05:27 +0000",
+      "betternether:gravel_desert": "2025-05-05 01:05:19 +0000",
+      "betternether:crimson_pinewood": "2025-05-05 01:06:01 +0000",
       "betternether:old_fungiwoods": "2025-05-05 00:41:22 +0000",
       "betternether:old_swampland": "2025-05-05 00:33:28 +0000",
       "betternether:nether_swampland": "2025-05-05 00:32:45 +0000",
@@ -9944,6 +9950,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-05-05 01:06:00 +0000",
       "minecraft:nether_wastes": "2025-05-05 00:50:29 +0000",
       "minecraft:soul_sand_valley": "2025-05-05 00:44:30 +0000"
     },
@@ -9952,6 +9959,12 @@
   "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-05 00:37:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_hoe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-05-05 00:57:19 +0000"
     },
     "done": true
   },
@@ -9985,6 +9998,12 @@
   "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
     "criteria": {
       "has_item.betternether.cincinnasite": "2025-05-05 00:37:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-05-05 00:57:19 +0000"
     },
     "done": true
   },
@@ -10066,6 +10085,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_reed_planks": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-05-05 00:57:19 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/peridot_leggings": {
     "criteria": {
       "has_peridot_gem": "2025-05-05 00:25:19 +0000"
@@ -10081,6 +10106,12 @@
   "techreborn:recipes/industrial_grinder/netherrack_with_water": {
     "criteria": {
       "has_netherrack": "2025-05-05 00:37:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_sword": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-05-05 00:57:19 +0000"
     },
     "done": true
   },
@@ -10105,6 +10136,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/peridot_storage_block": {
     "criteria": {
       "has_peridot_gem": "2025-05-05 00:25:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/enchanted_golden_apple": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-05 01:00:33 +0000"
     },
     "done": true
   },
@@ -10174,9 +10211,21 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_shovel": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-05-05 00:57:19 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_trap": {
     "criteria": {
       "has_flint": "2025-05-05 00:28:17 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/sugar": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-05-05 00:57:19 +0000"
     },
     "done": true
   },
@@ -10222,6 +10271,12 @@
     },
     "done": true
   },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-05 00:58:17 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-05 00:37:04 +0000"
@@ -10243,6 +10298,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-05 00:19:27 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-05-05 00:57:19 +0000"
     },
     "done": true
   },
@@ -10273,6 +10334,12 @@
   "croptopia:recipes/carnitas": {
     "criteria": {
       "has_porkchop": "2025-05-05 00:46:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/brewing/nether_brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-05 00:58:17 +0000"
     },
     "done": true
   },
@@ -10360,6 +10427,18 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/stick": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-05-05 00:57:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-05 00:58:17 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/peridot_boots": {
     "criteria": {
       "has_peridot_gem": "2025-05-05 00:25:19 +0000"
@@ -10393,6 +10472,18 @@
   "techreborn:recipes/misc/crafting_table/tool/peridot_pickaxe": {
     "criteria": {
       "has_peridot_gem": "2025-05-05 00:25:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-05 00:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-05 00:58:17 +0000"
     },
     "done": true
   },
@@ -10441,6 +10532,12 @@
   "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-05 00:37:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_hoe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-05-05 00:57:19 +0000"
     },
     "done": true
   },
@@ -10510,6 +10607,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_shovel": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-05-05 00:57:19 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/peridot_axe": {
     "criteria": {
       "has_peridot_gem": "2025-05-05 00:25:19 +0000"
@@ -10552,6 +10655,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-05 00:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-05 01:00:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_sword": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-05-05 00:57:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-05 00:19:27 +0000"
@@ -10561,6 +10682,18 @@
   "twigs:recipes/gravel_bricks/gravel_bricks": {
     "criteria": {
       "has_item": "2025-05-05 00:31:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_nether_reed": "2025-05-05 00:57:19 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-05-05 00:57:19 +0000"
     },
     "done": true
   },
@@ -10624,9 +10757,33 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_axe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-05-05 00:57:19 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2025-05-05 00:58:17 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_pickaxe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-05-05 00:57:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-05 00:37:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/paper": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-05-05 00:57:19 +0000"
     },
     "done": true
   },
@@ -10693,6 +10850,12 @@
   "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-05-05 00:25:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2025-05-05 00:58:17 +0000"
     },
     "done": true
   },

@@ -2938,9 +2938,11 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-05-04 07:20:31 +0000",
+      "redstone_abyss": "2025-05-05 00:52:27 +0000",
       "pine_taiga": "2025-05-04 06:11:05 +0000",
       "muddy_river": "2025-05-04 06:08:25 +0000",
       "autumnal_maple_forest": "2025-05-04 07:18:21 +0000",
+      "mycotoxic_undergrowth": "2025-05-05 00:53:37 +0000",
       "maple_forest": "2025-05-04 05:59:46 +0000",
       "boreal_forest": "2025-05-04 06:08:34 +0000",
       "glistering_meadow": "2025-05-05 00:45:13 +0000",
@@ -9924,17 +9926,25 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/armor/quantum_helmet": {
+    "criteria": {
+      "has_data_storage_chip": "2025-05-05 00:54:03 +0000"
+    },
+    "done": true
+  },
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:old_fungiwoods": "2025-05-05 00:41:22 +0000",
       "betternether:old_swampland": "2025-05-05 00:33:28 +0000",
       "betternether:nether_swampland": "2025-05-05 00:32:45 +0000",
-      "betternether:nether_mushroom_forest_edge": "2025-05-05 00:41:11 +0000"
+      "betternether:nether_mushroom_forest_edge": "2025-05-05 00:41:11 +0000",
+      "betternether:nether_jungle": "2025-05-05 00:53:26 +0000"
     },
     "done": false
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-05-05 00:50:29 +0000",
       "minecraft:soul_sand_valley": "2025-05-05 00:44:30 +0000"
     },
     "done": false
@@ -9947,7 +9957,9 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
+      "mycotoxic_undergrowth": "2025-05-05 00:53:37 +0000",
       "blackstone_basin": "2025-05-05 00:34:24 +0000",
+      "redstone_abyss": "2025-05-05 00:52:27 +0000",
       "glistering_meadow": "2025-05-05 00:45:13 +0000"
     },
     "done": false
@@ -9982,9 +9994,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-05 00:53:58 +0000"
+    },
+    "done": true
+  },
   "netherdepthsupgrade:main/root": {
     "criteria": {
       "entered_nether": "2025-05-05 00:32:38 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-05-05 00:53:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/computer_cube": {
+    "criteria": {
+      "has_data_storage_chip": "2025-05-05 00:54:03 +0000"
     },
     "done": true
   },
@@ -10015,6 +10045,12 @@
   "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-05 00:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-05 00:53:58 +0000"
     },
     "done": true
   },
@@ -10054,6 +10090,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_tile_large": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-05-05 00:55:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-05-05 00:25:50 +0000"
@@ -10078,6 +10120,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-05 00:53:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-05 00:19:27 +0000"
@@ -10099,6 +10147,12 @@
   "techreborn:recipes/industrial_electrolyzer/sand": {
     "criteria": {
       "has_sand": "2025-05-05 00:19:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/quantum_boots": {
+    "criteria": {
+      "has_data_storage_chip": "2025-05-05 00:54:03 +0000"
     },
     "done": true
   },
@@ -10153,6 +10207,12 @@
   "travelersbackpack:recipes/misc/pig": {
     "criteria": {
       "has_porkchop": "2025-05-05 00:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-05-05 00:53:12 +0000"
     },
     "done": true
   },
@@ -10213,6 +10273,12 @@
   "croptopia:recipes/carnitas": {
     "criteria": {
       "has_porkchop": "2025-05-05 00:46:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-05 00:53:58 +0000"
     },
     "done": true
   },
@@ -10279,6 +10345,12 @@
   "techreborn:recipes/misc/crafting_table/tool/sapphire_sword": {
     "criteria": {
       "has_sapphire_gem": "2025-05-05 00:25:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/tank/quantum_tank_unit_from_industrial": {
+    "criteria": {
+      "has_data_storage_chip": "2025-05-05 00:54:03 +0000"
     },
     "done": true
   },
@@ -10375,6 +10447,18 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-05 00:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-05-05 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-05-05 00:53:58 +0000"
     },
     "done": true
   },
@@ -10504,6 +10588,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/armor/quantum_chestplate": {
+    "criteria": {
+      "has_data_storage_chip": "2025-05-05 00:54:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/tank/quantum_tank_unit": {
+    "criteria": {
+      "has_the_recipe": "2025-05-05 00:54:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-05-05 00:25:50 +0000"
@@ -10534,6 +10630,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-05 00:53:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-05 00:37:04 +0000"
@@ -10555,6 +10657,12 @@
   "betternether:recipes/decorations/bricks_fire_bowl": {
     "criteria": {
       "has_netherrack": "2025-05-05 00:37:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/storage/quantum_storage_unit": {
+    "criteria": {
+      "has_data_storage_chip": "2025-05-05 00:54:03 +0000"
     },
     "done": true
   },
@@ -10600,9 +10708,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/unit/upgrader/industrial_unit_upgrader": {
+    "criteria": {
+      "has_data_storage_chip": "2025-05-05 00:54:03 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-05-05 00:31:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/quantum_leggings": {
+    "criteria": {
+      "has_data_storage_chip": "2025-05-05 00:54:03 +0000"
     },
     "done": true
   },

@@ -3193,6 +3193,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-05-05 00:55:51 +0000",
       "shrubland": "2025-05-04 08:21:05 +0000",
       "pine_taiga": "2025-05-04 06:10:59 +0000",
       "bayou": "2025-05-04 07:37:26 +0000",
@@ -3204,6 +3205,7 @@
       "grassy_beach": "2025-05-04 07:30:52 +0000",
       "rocky_meadow": "2025-05-04 07:09:30 +0000",
       "blackwood_taiga": "2025-05-04 22:16:02 +0000",
+      "flower_fields": "2025-05-05 00:52:48 +0000",
       "maple_forest": "2025-05-04 05:59:46 +0000",
       "frozen_pine_taiga": "2025-05-04 22:56:32 +0000",
       "magnolia_highlands": "2025-05-04 07:09:45 +0000",
@@ -3223,6 +3225,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-05-05 00:55:51 +0000",
       "shrubland": "2025-05-04 08:21:05 +0000",
       "pine_taiga": "2025-05-04 06:10:59 +0000",
       "bayou": "2025-05-04 07:37:26 +0000",
@@ -3234,6 +3237,7 @@
       "grassy_beach": "2025-05-04 07:30:52 +0000",
       "rocky_meadow": "2025-05-04 07:09:30 +0000",
       "blackwood_taiga": "2025-05-04 22:16:02 +0000",
+      "flower_fields": "2025-05-05 00:52:48 +0000",
       "maple_forest": "2025-05-04 05:59:46 +0000",
       "frozen_pine_taiga": "2025-05-04 22:56:32 +0000",
       "magnolia_highlands": "2025-05-04 07:09:45 +0000",
@@ -11880,12 +11884,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/extractor/black_dye_from_ink_sac": {
-    "criteria": {
-      "has_ink_sac": "2025-05-05 00:46:08 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/ender_perl_to_block": {
     "criteria": {
       "has_ender_pearl": "2025-05-05 00:27:52 +0000"
@@ -11895,6 +11893,84 @@
   "betterend:recipes/misc/ender_eye_amber": {
     "criteria": {
       "has_ender_pearl": "2025-05-05 00:27:52 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-05-05 00:27:52 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-05 00:27:52 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/void_fragment": {
+    "criteria": {
+      "has_item": "2025-05-05 00:27:52 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2025-05-05 00:27:52 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/waystone": {
+    "criteria": {
+      "has_item": "2025-05-05 00:27:52 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-05-05 00:27:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/ender_eye": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-05 00:27:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-05 00:27:52 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/transmogrification_table": {
+    "criteria": {
+      "has_item": "2025-05-05 00:27:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-05-05 00:30:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_water": {
+    "criteria": {
+      "has_diamond_horse_armor": "2025-05-05 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_mercury": {
+    "criteria": {
+      "has_diamond_horse_armor": "2025-05-05 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/black_dye_from_ink_sac": {
+    "criteria": {
+      "has_ink_sac": "2025-05-05 00:46:08 +0000"
     },
     "done": true
   },
@@ -11922,21 +11998,9 @@
     },
     "done": false
   },
-  "betterend:recipes/misc/ender_pearl_to_dust": {
-    "criteria": {
-      "has_item.minecraft.ender_pearl": "2025-05-05 00:27:52 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/dense_covered_black": {
     "criteria": {
       "has_dyes/black": "2025-05-05 00:46:08 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/abyss_watcher": {
-    "criteria": {
-      "has_ender_pearl": "2025-05-05 00:27:52 +0000"
     },
     "done": true
   },
@@ -11958,33 +12022,9 @@
     },
     "done": true
   },
-  "transmog:recipes/misc/void_fragment": {
-    "criteria": {
-      "has_item": "2025-05-05 00:27:52 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/food/cooked_calamari_from_calamari": {
     "criteria": {
       "has_calamari": "2025-05-05 00:46:08 +0000"
-    },
-    "done": true
-  },
-  "adventurez:recipes/ender_flute_recipe": {
-    "criteria": {
-      "got_the_ender_pearl": "2025-05-05 00:27:52 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_water": {
-    "criteria": {
-      "has_diamond_horse_armor": "2025-05-05 00:42:07 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/tools/waystone": {
-    "criteria": {
-      "has_item": "2025-05-05 00:27:52 +0000"
     },
     "done": true
   },
@@ -11997,18 +12037,6 @@
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-05-05 00:46:08 +0000"
-    },
-    "done": true
-  },
-  "mythicmounts:summoning_staff": {
-    "criteria": {
-      "has_pearl": "2025-05-05 00:27:52 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/ender_eye": {
-    "criteria": {
-      "has_ender_pearl": "2025-05-05 00:27:52 +0000"
     },
     "done": true
   },
@@ -12027,30 +12055,6 @@
   "croptopia:recipes/food/cooked_calamari_from_smoking_calamari": {
     "criteria": {
       "has_calamari": "2025-05-05 00:46:08 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_mushroom_house": {
-    "criteria": {
-      "location0": "2025-05-05 00:30:19 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/enderman": {
-    "criteria": {
-      "has_ender_pearl": "2025-05-05 00:27:52 +0000"
-    },
-    "done": true
-  },
-  "transmog:recipes/misc/transmogrification_table": {
-    "criteria": {
-      "has_item": "2025-05-05 00:27:52 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_mercury": {
-    "criteria": {
-      "has_diamond_horse_armor": "2025-05-05 00:42:07 +0000"
     },
     "done": true
   },

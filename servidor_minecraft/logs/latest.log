@@ -52,3 +52,27 @@
 [00:14:54] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of liamsitol accepted server config.
 [00:19:08] [Server thread/INFO]: zxymatthewyxz has made the advancement [Local Librarian]
 [00:19:08] [Server thread/INFO]: [zxymatthewyxz: Gave 20 [Bookshelf] to zxymatthewyxz]
+[00:21:05] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: wizards:frost isComplete: false
+[00:21:07] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: wizards:frost isComplete: false
+[00:25:19] [Server thread/INFO]: zxymatthewyxz has made the advancement [Tech Reborn]
+[00:25:50] [Server thread/INFO]: zxymatthewyxz has made the advancement [Ice Bucket Challenge]
+[00:25:50] [Server thread/INFO]: [zxymatthewyxz: Gave 10 [Obsidian] to zxymatthewyxz]
+[00:26:59] [Server thread/WARN]: @Redirect conflict. Skipping mixins.redirected_fabric_1.20.1.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirected->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[00:28:17] [Server thread/INFO]: [zxymatthewyxz: Gave 1 [Flint] to zxymatthewyxz]
+[00:28:37] [Server thread/INFO]: [zxymatthewyxz: Gave 1 [Iron Ingot] to zxymatthewyxz]
+[00:29:58] [Server thread/INFO]: Villager class_1646['Russ'/149, l='ServerLevel[world]', x=1104.59, y=64.00, z=-689.04] died, message: 'Russ was slain by Zombie'
+[00:29:58] [Server thread/INFO]: Named entity class_1646['Russ'/149, l='ServerLevel[world]', x=1104.59, y=64.00, z=-689.04] died: Russ was slain by Zombie
+[00:30:43] [Server thread/INFO]: [zxymatthewyxz: Applied enchantment Mending to zxymatthewyxz's item]
+[00:32:06] [Server thread/INFO]: [zxymatthewyxz: Gave 10 [Obsidian] to zxymatthewyxz]
+[00:32:34] [Server thread/INFO]: No return portal found
+[00:32:34] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of zxymatthewyxz accepted server config.
+[00:32:38] [Server thread/INFO]: zxymatthewyxz has made the advancement [Time for a Sweat]
+[00:32:38] [Server thread/INFO]: zxymatthewyxz has made the advancement [Nether Depths Upgrade]
+[00:32:38] [Server thread/INFO]: zxymatthewyxz has made the advancement [We Need to Go Deeper]
+[00:32:39] [spark-async-sampler-worker-thread/WARN]: Timed out waiting for world statistics
+[00:32:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9728ms or 194 ticks behind
+[00:33:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[00:36:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[00:36:19] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]] from pos class_2338{x=5893, y=74, z=-4453}
+[00:37:58] [Server thread/INFO]: [zxymatthewyxz: Gave 64 [Dirt] to zxymatthewyxz]
+[00:39:27] [Server thread/INFO]: [zxymatthewyxz: Gave 64 [Dirt] to zxymatthewyxz]

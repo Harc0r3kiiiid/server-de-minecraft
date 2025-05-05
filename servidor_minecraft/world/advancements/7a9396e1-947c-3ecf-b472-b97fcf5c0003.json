@@ -597,6 +597,7 @@
       "minecraft:snowy_taiga": "2025-05-04 22:36:22 +0000",
       "minecraft:swamp": "2025-05-04 07:37:29 +0000",
       "minecraft:forest": "2025-05-04 05:38:09 +0000",
+      "minecraft:frozen_ocean": "2025-05-05 00:05:08 +0000",
       "minecraft:windswept_forest": "2025-05-04 05:37:32 +0000",
       "minecraft:ocean": "2025-05-04 07:48:46 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-04 22:01:36 +0000",
@@ -11831,6 +11832,48 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-05-04 22:36:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-05-04 23:57:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-05-04 23:57:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-05-04 23:57:59 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-05-04 23:57:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-05-04 23:57:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-05-04 23:57:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-05 00:10:36 +0000"
     },
     "done": true
   },

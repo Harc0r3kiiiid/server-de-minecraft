@@ -347,3 +347,22 @@
 [01:10:36] [Server thread/INFO]: liamsitol has made the advancement [We Need to Go Deeper]
 [01:10:36] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of liamsitol accepted server config.
 [01:10:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4347ms or 86 ticks behind
+[01:12:36] [Server thread/INFO]: liamsitol has made the advancement [A Terrible Fortress]
+[01:12:44] [Server thread/INFO]: liamsitol has made the advancement [Into Fire]
+[01:14:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[01:14:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
+[01:14:51] [Server thread/INFO]: zxymatthewyxz has made the advancement [War Pigs]
+[01:15:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3097ms or 61 ticks behind
+[01:15:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2405ms or 48 ticks behind
+[01:15:26] [Worker-Main-2/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:4.1231055f,range:8,source:{pos:[I;-50,-59,-59],type:"minecraft:block"}}]
+[01:15:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
+[01:15:36] [Server thread/INFO]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[01:15:46] [Server thread/INFO]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[01:16:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[01:16:54] [Server thread/INFO]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[01:17:47] [Server thread/INFO]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[01:18:43] [Server thread/INFO]: zxymatthewyxz has completed the challenge [Hot Tourist Destinations]
+[01:20:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[01:20:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3777ms or 75 ticks behind
+[01:20:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[01:21:36] [Server thread/INFO]: liamsitol has made the advancement [War Pigs]

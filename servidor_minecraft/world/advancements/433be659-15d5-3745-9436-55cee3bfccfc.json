@@ -2950,6 +2950,7 @@
       "glistering_meadow": "2025-05-05 00:45:13 +0000",
       "blackstone_basin": "2025-05-05 00:34:24 +0000",
       "towering_cliffs": "2025-05-04 05:39:49 +0000",
+      "infernal_holt": "2025-05-05 01:09:35 +0000",
       "temperate_grove": "2025-05-04 07:20:39 +0000",
       "pumpkin_fields": "2025-05-04 07:25:29 +0000",
       "gravel_beach": "2025-05-04 05:59:50 +0000",
@@ -9936,6 +9937,7 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
+      "betternether:bone_reef": "2025-05-05 01:10:03 +0000",
       "betternether:wart_forest_edge": "2025-05-05 01:07:30 +0000",
       "betternether:flooded_deltas": "2025-05-05 01:05:27 +0000",
       "betternether:gravel_desert": "2025-05-05 01:05:19 +0000",
@@ -9944,7 +9946,11 @@
       "betternether:old_swampland": "2025-05-05 00:33:28 +0000",
       "betternether:nether_swampland": "2025-05-05 00:32:45 +0000",
       "betternether:nether_mushroom_forest_edge": "2025-05-05 00:41:11 +0000",
-      "betternether:nether_jungle": "2025-05-05 00:53:26 +0000"
+      "betternether:upside_down_forest": "2025-05-05 01:13:53 +0000",
+      "betternether:nether_jungle": "2025-05-05 00:53:26 +0000",
+      "betternether:nether_mushroom_forest": "2025-05-05 01:08:05 +0000",
+      "betternether:nether_swampland_terraces": "2025-05-05 01:16:32 +0000",
+      "betternether:sulfuric_bone_reef": "2025-05-05 01:10:08 +0000"
     },
     "done": false
   },
@@ -9952,7 +9958,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-05-05 01:06:00 +0000",
       "minecraft:nether_wastes": "2025-05-05 00:50:29 +0000",
-      "minecraft:soul_sand_valley": "2025-05-05 00:44:30 +0000"
+      "minecraft:soul_sand_valley": "2025-05-05 00:44:30 +0000",
+      "minecraft:basalt_deltas": "2025-05-05 01:09:07 +0000"
     },
     "done": false
   },
@@ -9972,10 +9979,23 @@
     "criteria": {
       "mycotoxic_undergrowth": "2025-05-05 00:53:37 +0000",
       "blackstone_basin": "2025-05-05 00:34:24 +0000",
+      "infernal_holt": "2025-05-05 01:09:35 +0000",
       "redstone_abyss": "2025-05-05 00:52:27 +0000",
       "glistering_meadow": "2025-05-05 00:45:13 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-05 01:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-05 01:15:42 +0000"
+    },
+    "done": true
   },
   "supplementaries:recipes/flint_block": {
     "criteria": {
@@ -10061,6 +10081,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/glass_bottle_from_splash_potion": {
+    "criteria": {
+      "has_splash_potion": "2025-05-05 01:17:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-05 00:37:04 +0000"
@@ -10103,9 +10129,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-05 01:15:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/netherrack_with_water": {
     "criteria": {
       "has_netherrack": "2025-05-05 00:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-05 01:15:42 +0000"
     },
     "done": true
   },
@@ -10148,6 +10186,18 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-05 00:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-05 01:15:42 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_nameless_blade": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-05 01:15:42 +0000"
     },
     "done": true
   },
@@ -10241,6 +10291,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-05 01:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-05-05 01:14:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/flint_from_gravel": {
     "criteria": {
       "has_gravel": "2025-05-05 00:31:15 +0000"
@@ -10262,6 +10324,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-05-05 00:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-05 01:15:42 +0000"
     },
     "done": true
   },
@@ -10433,6 +10501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-05 01:15:42 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blaze": {
     "criteria": {
       "has_blaze_rod": "2025-05-05 00:58:17 +0000"
@@ -10469,6 +10543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-05 01:15:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/peridot_pickaxe": {
     "criteria": {
       "has_peridot_gem": "2025-05-05 00:25:19 +0000"
@@ -10487,9 +10567,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-05 01:15:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/sapphire_spade": {
     "criteria": {
       "has_sapphire_gem": "2025-05-05 00:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-05 01:15:42 +0000"
     },
     "done": true
   },
@@ -10643,15 +10735,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-05 01:15:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-05 00:19:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-05 01:15:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-05-05 00:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-05 01:15:42 +0000"
     },
     "done": true
   },

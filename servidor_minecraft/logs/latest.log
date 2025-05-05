@@ -76,3 +76,42 @@
 [00:36:19] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]] from pos class_2338{x=5893, y=74, z=-4453}
 [00:37:58] [Server thread/INFO]: [zxymatthewyxz: Gave 64 [Dirt] to zxymatthewyxz]
 [00:39:27] [Server thread/INFO]: [zxymatthewyxz: Gave 64 [Dirt] to zxymatthewyxz]
+[00:45:45] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frostbolt Entity not found: 36946
+[00:46:51] [Server thread/INFO]: [zxymatthewyxz: Gave 64 [Dirt] to zxymatthewyxz]
+[00:49:03] [Server thread/INFO]: [zxymatthewyxz: Gave 64 [Dirt] to zxymatthewyxz]
+[00:49:25] [pool-12-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_snowy], ResourceKey[minecraft:worldgen/structure / ctov:small/village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands]] from pos class_2338{x=4613, y=69, z=-4155}
+[00:49:28] [Worker-Main-3/WARN]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[00:49:31] [Worker-Main-3/WARN]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[00:49:31] [Worker-Main-3/WARN]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[00:49:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4918ms or 98 ticks behind
+[00:49:35] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.2823974769371489
+[00:49:35] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.6690949538542554
+[00:49:35] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 1.0524554680496294
+[00:49:35] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 1.4340304400238892
+[00:49:35] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 1.814650003956558
+[00:49:48] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.5710322866402748
+[00:49:48] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 1.3223330060645209
+[00:49:48] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 2.035645834675695
+[00:49:48] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 2.6930080058700394
+[00:49:48] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 3.3151655024434445
+[00:49:49] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.44279867685099816
+[00:49:49] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.43035170053190086
+[00:49:49] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.4223303601847874
+[00:49:49] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.41781664363088566
+[00:49:49] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.4154014438968261
+[00:49:49] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.4141091186729682
+[00:49:49] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.4134176212114653
+[00:49:49] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.41304761470701123
+[00:49:49] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.4126092168494324
+[00:49:49] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.41305810788117014
+[00:49:49] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.41602591311857395
+[00:49:49] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.4200685875248382
+[00:49:56] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.8095817913481369
+[00:49:56] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.430577813637683
+[00:50:00] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.274222800172538
+[00:50:00] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.638472087763148
+[00:50:01] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.6161709855359732
+[00:50:01] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.3885871033253352
+[00:50:01] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.28457096394504333
+[00:50:01] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.8983818697833136
+[00:50:01] [Server thread/WARN]: Żar-ptak (vehicle of liamsitol) moved wrongly! 0.7251204755443723

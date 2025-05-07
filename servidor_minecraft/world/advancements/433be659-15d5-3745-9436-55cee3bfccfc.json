@@ -537,8 +537,10 @@
       "minecraft:dripstone_caves": "2025-05-04 05:22:09 +0000",
       "minecraft:cold_ocean": "2025-05-04 07:26:18 +0000",
       "minecraft:forest": "2025-05-04 05:40:30 +0000",
+      "minecraft:desert": "2025-05-07 01:13:40 +0000",
       "minecraft:windswept_forest": "2025-05-04 05:36:26 +0000",
       "minecraft:ocean": "2025-05-04 07:49:19 +0000",
+      "minecraft:warm_ocean": "2025-05-07 01:12:46 +0000",
       "minecraft:flower_forest": "2025-05-04 06:25:26 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-04 05:36:27 +0000",
       "minecraft:meadow": "2025-05-04 06:12:02 +0000",
@@ -649,8 +651,11 @@
       "minecraft:skeleton": "2025-05-04 06:07:44 +0000",
       "minecraft:hoglin": "2025-05-05 00:46:04 +0000",
       "minecraft:spider": "2025-05-04 05:45:42 +0000",
+      "minecraft:piglin_brute": "2025-05-07 01:07:42 +0000",
       "minecraft:creeper": "2025-05-04 06:05:49 +0000",
+      "minecraft:zombified_piglin": "2025-05-07 01:07:51 +0000",
       "minecraft:wither_skeleton": "2025-05-05 00:36:43 +0000",
+      "minecraft:piglin": "2025-05-07 01:10:06 +0000",
       "minecraft:enderman": "2025-05-04 21:07:02 +0000",
       "minecraft:zombie": "2025-05-04 05:26:20 +0000"
     },
@@ -2944,6 +2949,7 @@
       "pine_taiga": "2025-05-04 06:11:05 +0000",
       "muddy_river": "2025-05-04 06:08:25 +0000",
       "autumnal_maple_forest": "2025-05-04 07:18:21 +0000",
+      "rocky_reef": "2025-05-07 01:13:34 +0000",
       "mycotoxic_undergrowth": "2025-05-05 00:53:37 +0000",
       "maple_forest": "2025-05-04 05:59:46 +0000",
       "boreal_forest": "2025-05-04 06:08:34 +0000",
@@ -2953,6 +2959,7 @@
       "infernal_holt": "2025-05-05 01:09:35 +0000",
       "temperate_grove": "2025-05-04 07:20:39 +0000",
       "pumpkin_fields": "2025-05-04 07:25:29 +0000",
+      "baobab_savanna": "2025-05-07 01:13:37 +0000",
       "gravel_beach": "2025-05-04 05:59:50 +0000",
       "golden_boreal_taiga": "2025-05-04 07:12:02 +0000"
     },
@@ -2964,11 +2971,13 @@
       "pine_taiga": "2025-05-04 06:11:05 +0000",
       "muddy_river": "2025-05-04 06:08:25 +0000",
       "autumnal_maple_forest": "2025-05-04 07:18:21 +0000",
+      "rocky_reef": "2025-05-07 01:13:34 +0000",
       "maple_forest": "2025-05-04 05:59:46 +0000",
       "boreal_forest": "2025-05-04 06:08:34 +0000",
       "towering_cliffs": "2025-05-04 05:39:49 +0000",
       "temperate_grove": "2025-05-04 07:20:39 +0000",
       "pumpkin_fields": "2025-05-04 07:25:29 +0000",
+      "baobab_savanna": "2025-05-07 01:13:37 +0000",
       "gravel_beach": "2025-05-04 05:59:50 +0000",
       "golden_boreal_taiga": "2025-05-04 07:12:02 +0000"
     },
@@ -11072,15 +11081,39 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-07 01:04:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-05-07 01:15:54 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_shingle_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-06 23:39:05 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-07 01:04:19 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bloodstone/polished_bloodstone": {
     "criteria": {
       "has_item": "2025-05-07 00:45:24 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_wall": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-05-07 01:08:22 +0000"
     },
     "done": true
   },
@@ -11096,6 +11129,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2025-05-07 01:10:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_forged_roof_tile_cincinnasite": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-05-07 01:08:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-06 23:39:05 +0000"
@@ -11108,15 +11153,39 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_leggings": {
+    "criteria": {
+      "has_nether_ruby": "2025-05-07 01:06:37 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_pavers_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-06 23:39:05 +0000"
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_boots": {
+    "criteria": {
+      "has_nether_ruby": "2025-05-07 01:06:37 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_forge": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-05-07 01:08:22 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/yellow_garnet_storage_block": {
     "criteria": {
       "has_yellow_garnet_gem": "2025-05-06 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern_small": {
+    "criteria": {
+      "has_cincinnasite_lantern": "2025-05-07 01:06:19 +0000"
     },
     "done": true
   },
@@ -11132,9 +11201,45 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_forged": "2025-05-07 01:08:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2025-05-07 01:15:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_wall_stonecutting": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_forged": "2025-05-07 01:08:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-07 01:04:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-06 23:39:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_forged_cincinnasite_slab": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-05-07 01:08:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_carved": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-05-07 01:08:22 +0000"
     },
     "done": true
   },
@@ -11144,9 +11249,27 @@
     },
     "done": true
   },
+  "betternether:cincinnasite_diamond": {
+    "criteria": {
+      "cincinnasite_diamond": "2025-05-07 01:04:02 +0000"
+    },
+    "done": true
+  },
   "adventurez:recipes/chiseled_polished_blackstone_holder_recipe": {
     "criteria": {
       "got_blackstone": "2025-05-06 23:39:05 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/netherite_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-07 01:10:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_pillar": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-05-07 01:08:22 +0000"
     },
     "done": true
   },
@@ -11156,9 +11279,51 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/netherite_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-05-07 01:10:45 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/netherite_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-05-07 01:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-07 01:07:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:flaming_ruby": {
+    "criteria": {
+      "flaming_ruby": "2025-05-07 01:06:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_tile_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_forged": "2025-05-07 01:08:22 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blackstone_pillar_trim": {
     "criteria": {
       "has_blackstone_pillar_trim": "2025-05-06 23:39:05 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/netherite_candelabra": {
+    "criteria": {
+      "has_item": "2025-05-07 01:04:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-05-07 01:08:22 +0000"
     },
     "done": true
   },
@@ -11174,9 +11339,21 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/chest_of_drawers": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-05-07 01:08:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-06 23:39:05 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-07 01:04:19 +0000"
     },
     "done": true
   },
@@ -11192,6 +11369,18 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/cincinnasite_forged_cincinnasite_plate": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-05-07 01:08:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_helmet": {
+    "criteria": {
+      "has_nether_ruby": "2025-05-07 01:06:37 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-06 23:39:05 +0000"
@@ -11201,6 +11390,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-06 23:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-07 01:07:55 +0000"
     },
     "done": true
   },
@@ -11222,9 +11417,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-07 01:15:54 +0000"
+    },
+    "done": true
+  },
   "zenith:enchanting/enchanter": {
     "criteria": {
       "enchanting_table": "2025-05-06 23:34:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_chestplate": {
+    "criteria": {
+      "has_nether_ruby": "2025-05-07 01:06:37 +0000"
     },
     "done": true
   },
@@ -11237,6 +11444,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-05-06 23:39:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_slab_stonecutting": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_forged": "2025-05-07 01:08:22 +0000"
     },
     "done": true
   },
@@ -11255,6 +11468,12 @@
   "stoneworks:recipes/building_blocks/cobbled_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-06 23:39:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-05-07 01:15:54 +0000"
     },
     "done": true
   },
@@ -11279,6 +11498,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-06 23:39:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_roof_tile_stonecutting": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_forged": "2025-05-07 01:08:22 +0000"
     },
     "done": true
   },
@@ -11318,6 +11543,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-05-07 01:15:54 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_tile_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-06 23:39:05 +0000"
@@ -11327,6 +11558,24 @@
   "twigs:recipes/bloodstone/bloodstone_wall_stonecutting": {
     "criteria": {
       "has_item": "2025-05-07 00:45:24 +0000"
+    },
+    "done": true
+  },
+  "betternether:ruby_ore": {
+    "criteria": {
+      "ruby_ore": "2025-05-07 01:06:37 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_forged_cincinnasite_stairs": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-05-07 01:08:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/cincinnasite_brick_plate": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-05-07 01:08:22 +0000"
     },
     "done": true
   },
@@ -11354,9 +11603,21 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/cincinnasite_ingot": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-05-07 01:08:22 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bloodstone/bloodstone_stairs_stonecutting": {
     "criteria": {
       "has_item": "2025-05-07 00:45:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2025-05-07 01:15:54 +0000"
     },
     "done": true
   },
@@ -11375,6 +11636,12 @@
   "stoneworks:recipes/building_blocks/mossy_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-06 23:39:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_tile_small_stonecutting": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_forged": "2025-05-07 01:08:22 +0000"
     },
     "done": true
   },
@@ -11402,6 +11669,18 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-05-07 01:15:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_carved_stonecutting": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_forged": "2025-05-07 01:08:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_plate_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-06 23:39:05 +0000"
@@ -11426,6 +11705,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2025-05-07 01:15:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-06 23:39:05 +0000"
@@ -11435,6 +11720,24 @@
   "betternether:recipes/decorations/blackstone_furnace": {
     "criteria": {
       "has_blackstone": "2025-05-06 23:39:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_pedestal": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-05-07 01:08:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_bricks": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-05-07 01:08:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2025-05-07 01:15:54 +0000"
     },
     "done": true
   },
@@ -11456,6 +11759,24 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_pillar_stonecutting": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_forged": "2025-05-07 01:08:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-05-07 01:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-07 01:15:54 +0000"
+    },
+    "done": true
+  },
   "zenith:enchanting/30ench": {
     "criteria": {
       "enchanted_item": "2025-05-06 23:35:39 +0000"
@@ -11467,6 +11788,12 @@
       "has_sphalerite_dust": "2025-05-06 23:40:12 +0000"
     },
     "done": true
+  },
+  "betternether:flaming_tools": {
+    "criteria": {
+      "flaming_ruby_EquipmentSlot[name\u003dsword, category\u003dCOMBAT]": "2025-05-07 01:06:48 +0000"
+    },
+    "done": false
   },
   "handcrafted:recipes/misc/blackstone_corner_trim": {
     "criteria": {
@@ -11483,6 +11810,24 @@
   "stoneworks:recipes/building_blocks/blackstone_paver_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-06 23:39:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/bone_cin_door": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-05-07 01:08:22 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/netherite_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-07 01:10:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_anvil": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-05-07 01:08:22 +0000"
     },
     "done": true
   },
@@ -11510,6 +11855,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_ruby_block": {
+    "criteria": {
+      "has_nether_ruby": "2025-05-07 01:06:37 +0000"
+    },
+    "done": true
+  },
   "mythicupgrades:recipes/misc/sapphire_ingot": {
     "criteria": {
       "has_necessary_ingredients": "2025-05-06 23:40:43 +0000"
@@ -11519,6 +11870,18 @@
   "stoneworks:recipes/building_blocks/mossy_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-06 23:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-07 01:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-05-07 01:12:38 +0000"
     },
     "done": true
   },

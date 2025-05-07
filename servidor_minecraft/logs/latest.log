@@ -2,3 +2,17 @@
 [00:03:14] [Server thread/INFO]: liamsitol left the game
 [00:03:14] [Server thread/INFO]: remove player wand
 [00:03:14] [Server thread/INFO]: Updating all forceload tickets for 7a9396e1-947c-3ecf-b472-b97fcf5c0003
+[00:31:34] [Server thread/INFO]: zxymatthewyxz burned to death
+[00:31:38] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of zxymatthewyxz accepted server config.
+[00:31:53] [Server thread/INFO]: No return portal found
+[00:31:54] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of zxymatthewyxz accepted server config.
+[00:32:10] [Server thread/INFO]: [zxymatthewyxz: Teleported zxymatthewyxz to -219.500000, 16.500000, -7023.500000]
+[00:32:17] [Server thread/INFO]: zxymatthewyxz claimed a grave belonging to zxymatthewyxz at -221, 16, -7024, minecraft:the_nether
+[00:33:17] [Server thread/INFO]: zxymatthewyxz tried to swim in lava
+[00:33:19] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of zxymatthewyxz accepted server config.
+[00:33:33] [Server thread/INFO]: No return portal found
+[00:33:33] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of zxymatthewyxz accepted server config.
+[00:33:42] [Server thread/INFO]: [zxymatthewyxz: Teleported zxymatthewyxz to -139.500000, 16.500000, -7027.500000]
+[00:33:47] [Server thread/ERROR]: Grave could not be replaced at X: -140, Y: 16, Z: -7028 / minecraft:the_nether
+[00:33:47] [Server thread/INFO]: zxymatthewyxz claimed a grave belonging to zxymatthewyxz at -140, 16, -7028, minecraft:the_nether
+[00:34:57] [Server thread/INFO]: [zxymatthewyxz: Gave 1 [Diamond Pickaxe] to zxymatthewyxz]
